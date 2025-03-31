@@ -63,6 +63,6 @@ Descripción breve del proyecto 2.
 
 ## Algunos videos de mi canal de YouTube
 
-| [![La primera universidad del mundo](images/video_1.png)](https://www.youtube.com/shorts/zMDsVVD4TBk) | [![La banda con más integrantes de la historia](images/video_2.png)](https://www.youtube.com/shorts/2IYuUX1aI1o) | [![Video 3](images/video_3.png)](https://www.youtube.com/shorts/02BJxGtnIrQ) | [![El primer chatbot cuando las maquinas comenzaron a conversar](images/video_4.png)](https://www.youtube.com/shorts/02BJxGtnIrQ) |
+| [![La primera universidad del mundo](images/video_1.png)](https://www.youtube.com/shorts/zMDsVVD4TBk) | [![La banda con más integrantes de la historia](images/videos_2.png)](https://www.youtube.com/shorts/2IYuUX1aI1o) | [![El divorcio que te deja tiritando](images/videos_3.png)](https://www.youtube.com/shorts/R4AJxHbvnAA) | [![El primer chatbot cuando las maquinas comenzaron a conversar](images/videos_4.png)](https://www.youtube.com/shorts/02BJxGtnIrQ) |
 |---|---|---|---|
 
