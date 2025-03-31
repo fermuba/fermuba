@@ -63,24 +63,6 @@ Descripción breve del proyecto 2.
 
 ## Algunos videos de mi canal de YouTube
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- Video 1 -->
-  [![La primera universidad del mundo](images/video_1.png)](https://www.youtube.com/shorts/zMDsVVD4TBk)
-  <!--
-  <a href="https://www.youtube.com/shorts/zMDsVVD4TBk">
-    <img src="https://www.youtube.com/shorts/zMDsVVD4TBk/0.jpg" alt="Video 1" width="200"/>
-  </a> -->
-  
-  <!-- Video 2 -->
-  <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_2">
-    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_2/0.jpg" alt="Video 2" width="200"/>
-  </a>
-  <!-- Video 3 -->
-  <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_3">
-    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_3/0.jpg" alt="Video 3" width="200"/>
-  </a>
-  <!-- Video 4 -->
-  <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_4">
-    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_4/0.jpg" alt="Video 4" width="200"/>
-  </a>
-</div>
+| [![La primera universidad del mundo](images/video_1.png)](https://www.youtube.com/shorts/zMDsVVD4TBk) | [![Video 2](https://img.youtube.com/vi/ID_DEL_VIDEO_2/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO_2) | [![Video 3](https://img.youtube.com/vi/ID_DEL_VIDEO_3/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO_3) | [![Video 4](https://img.youtube.com/vi/ID_DEL_VIDEO_4/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO_4) |
+|---|---|---|---|
+
