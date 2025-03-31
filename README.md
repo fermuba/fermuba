@@ -30,18 +30,18 @@ Soy un **Data Scientist** apasionado por **Machine Learning**, **Power BI** y **
 <!-- Proyecto 1 -->
 <div style="display: flex; align-items: center;">
   <!-- Imagen que enlaza al repositorio o página del proyecto -->
-  <a href="URL_DEL_PROYECTO_1">
-    <img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_1" alt="Proyecto 1" width="300"/>
+  <a href="[Link](https://review-insights.streamlit.app/)">
+    <img src="images/Review.jpg" alt="Review Insights" width="300"/>
   </a>
   <!-- Espacio entre imágenes -->
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Imagen que enlaza al video relacionado -->
-  <a href="URL_DEL_VIDEO_DEL_PROYECTO_1">
-    <img src="URL_DE_LA_IMAGEN_DEL_VIDEO_1" alt="Video del Proyecto 1" width="300"/>
+  <a href="https://www.youtube.com/watch?v=h6Jlk13GtEQ">
+    <img src="images/review-insights.png" alt="Recorrido por la pagina" width="300"/>
   </a>
 </div>
-**Nombre del Proyecto 1**  
-Descripción breve del proyecto 1.
+**Review Insights**  
+Review Insights es una empresa de análisis de datos que tiene como objetivo proporcionar información valiosa a otras empresas sobre las reseñas y recomendaciones que reciben de los usuarios en plataformas como Yelp y Google Maps. Nuestro enfoque principal es recopilar, analizar y ofrecer información significativa sobre las experiencias de los usuarios en diferentes comercios.
 
 <!-- Proyecto 2 -->
 <div style="display: flex; align-items: center;">
