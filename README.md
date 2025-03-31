@@ -50,20 +50,6 @@ Review Insights es una empresa de análisis de datos que tiene como objetivo pro
 
 ## Algunos videos de mi canal de YouTube
 
-<p align="center">
-  <a href="https://www.youtube.com/shorts/zMDsVVD4TBk">
-    <img src="images/video_1.png" alt="La primera universidad del mundo" width="200"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/shorts/2IYuUX1aI1o">
-    <img src="images/videos_2.png" alt="La banda con más integrantes de la historia" width="200"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/shorts/R4AJxHbvnAA">
-    <img src="images/videos_3.png" alt="El divorcio que te deja tiritando" width="200"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/shorts/02BJxGtnIrQ">
-    <img src="images/videos_4.png" alt="El primer chatbot cuando las máquinas comenzaron a conversar" width="200"/>
-  </a>
-</p>
+| [![La primera universidad del mundo](images/video_1.png)](https://www.youtube.com/shorts/zMDsVVD4TBk) | [![La banda con más integrantes de la historia](images/videos_2.png)](https://www.youtube.com/shorts/2IYuUX1aI1o) | [![El divorcio que te deja tiritando](images/videos_3.png)](https://www.youtube.com/shorts/R4AJxHbvnAA) | [![El primer chatbot cuando las maquinas comenzaron a conversar](images/videos_4.png)](https://www.youtube.com/shorts/02BJxGtnIrQ) |
+|---|---|---|---|
+
