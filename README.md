@@ -1,6 +1,6 @@
 <!-- Centrar el saludo -->
 <p align="center">
-  ### Hola y bienvenidos 👋
+  <h3>Hola y bienvenidos 👋</h3>
 </p>
 
 <!-- Imagen de portada -->
@@ -28,75 +28,56 @@ Soy un **Data Scientist** apasionado por **Machine Learning**, **Power BI** y **
 ## Algunos proyectos
 
 <!-- Proyecto 1 -->
-<p align="center">
+<div style="display: flex; align-items: center;">
+  <!-- Imagen que enlaza al repositorio o página del proyecto -->
   <a href="URL_DEL_PROYECTO_1">
-    <img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_1" alt="Proyecto 1" width="400"/>
+    <img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_1" alt="Proyecto 1" width="300"/>
   </a>
-  <br>
-  **Nombre del Proyecto 1**
-  <br>
-  Descripción breve del proyecto 1.
-</p>
+  <!-- Espacio entre imágenes -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Imagen que enlaza al video relacionado -->
+  <a href="URL_DEL_VIDEO_DEL_PROYECTO_1">
+    <img src="URL_DE_LA_IMAGEN_DEL_VIDEO_1" alt="Video del Proyecto 1" width="300"/>
+  </a>
+</div>
+**Nombre del Proyecto 1**  
+Descripción breve del proyecto 1.
 
 <!-- Proyecto 2 -->
-<p align="center">
+<div style="display: flex; align-items: center;">
   <a href="URL_DEL_PROYECTO_2">
-    <img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_2" alt="Proyecto 2" width="400"/>
+    <img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_2" alt="Proyecto 2" width="300"/>
   </a>
-  <br>
-  **Nombre del Proyecto 2**
-  <br>
-  Descripción breve del proyecto 2.
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="URL_DEL_VIDEO_DEL_PROYECTO_2">
+    <img src="URL_DE_LA_IMAGEN_DEL_VIDEO_2" alt="Video del Proyecto 2" width="300"/>
+  </a>
+</div>
+**Nombre del Proyecto 2**  
+Descripción breve del proyecto 2.
 
-<!-- Proyecto 3 -->
-<p align="center">
-  <a href="URL_DEL_PROYECTO_3">
-    <img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_3" alt="Proyecto 3" width="400"/>
-  </a>
-  <br>
-  **Nombre del Proyecto 3**
-  <br>
-  Descripción breve del proyecto 3.
-</p>
+<!-- Repite la estructura para más proyectos -->
 
 <!-- Línea divisoria -->
 ---
 
 ## Últimos videos de mi canal de YouTube
 
-<!-- Video 1 -->
-<p align="center">
+<div style="display: flex; justify-content: space-between;">
+  <!-- Video 1 -->
   <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_1">
-    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_1/0.jpg" alt="Video 1" width="400"/>
+    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_1/0.jpg" alt="Video 1" width="200"/>
   </a>
-  <br>
-  **Título del Video 1**
-</p>
-
-<!-- Video 2 -->
-<p align="center">
+  <!-- Video 2 -->
   <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_2">
-    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_2/0.jpg" alt="Video 2" width="400"/>
+    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_2/0.jpg" alt="Video 2" width="200"/>
   </a>
-  <br>
-  **Título del Video 2**
-</p>
-
-<!-- Video 3 -->
-<p align="center">
+  <!-- Video 3 -->
   <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_3">
-    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_3/0.jpg" alt="Video 3" width="400"/>
+    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_3/0.jpg" alt="Video 3" width="200"/>
   </a>
-  <br>
-  **Título del Video 3**
-</p>
-
-<!-- Video 4 -->
-<p align="center">
+  <!-- Video 4 -->
   <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_4">
-    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_4/0.jpg" alt="Video 4" width="400"/>
+    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_4/0.jpg" alt="Video 4" width="200"/>
   </a>
-  <br>
-  **Título del Video 4**
-</p>
+</div>
