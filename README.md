@@ -1,6 +1,6 @@
 <!-- Centrar el saludo -->
 <p align="center">
-  <h3>Hola y bienvenidos 👋</h3>
+  <strong>Hola y bienvenidos 👋</strong>
 </p>
 
 <!-- Imagen de portada -->
@@ -65,9 +65,12 @@ Descripción breve del proyecto 2.
 
 <div style="display: flex; justify-content: space-between;">
   <!-- Video 1 -->
+  [![La primera universidad del mundo](images/video_1.png)](https://www.youtube.com/shorts/zMDsVVD4TBk)
+  <!--
   <a href="https://www.youtube.com/shorts/zMDsVVD4TBk">
     <img src="https://www.youtube.com/shorts/zMDsVVD4TBk/0.jpg" alt="Video 1" width="200"/>
-  </a>
+  </a> -->
+  
   <!-- Video 2 -->
   <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_2">
     <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_2/0.jpg" alt="Video 2" width="200"/>
