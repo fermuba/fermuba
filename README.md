@@ -5,7 +5,7 @@
 
 <!-- Imagen de portada -->
 <p align="center">
-  <img src="Flyer.png" alt="Imagen de portada" width="600"/>
+  <img src="images/Flyer.png" alt="Imagen de portada" width="600"/>
 </p>
 
 <!-- Línea divisoria -->
@@ -61,12 +61,12 @@ Descripción breve del proyecto 2.
 <!-- Línea divisoria -->
 ---
 
-## Últimos videos de mi canal de YouTube
+## Algunos videos de mi canal de YouTube
 
 <div style="display: flex; justify-content: space-between;">
   <!-- Video 1 -->
-  <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_1">
-    <img src="https://img.youtube.com/vi/ID_DEL_VIDEO_1/0.jpg" alt="Video 1" width="200"/>
+  <a href="https://www.youtube.com/shorts/zMDsVVD4TBk">
+    <img src="https://www.youtube.com/shorts/zMDsVVD4TBk/0.jpg" alt="Video 1" width="200"/>
   </a>
   <!-- Video 2 -->
   <a href="https://www.youtube.com/watch?v=ID_DEL_VIDEO_2">
