@@ -41,7 +41,9 @@ Soy un **Data Scientist** apasionado por **Machine Learning**, **Power BI** y **
   </a>
 </div>
 Review Insights es una empresa de análisis de datos que tiene como objetivo proporcionar información valiosa a otras empresas sobre las reseñas y recomendaciones que reciben de los usuarios en plataformas como Yelp y Google Maps. Nuestro enfoque principal es recopilar, analizar y ofrecer información significativa sobre las experiencias de los usuarios en diferentes comercios.
-[![Link del repositorio]](https://github.com/fermuba/proyectogrupal)
+[Ver código fuente en GitHub](https://github.com/fermuba/proyectogrupal)
+
+---
 
 <!-- Proyecto 2 -->
 <div style="display: flex; align-items: center;">
